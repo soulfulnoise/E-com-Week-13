@@ -1,0 +1,19 @@
+{
+  "name": "week-13-ecom-hw",
+  "version": "1.0.0",
+  "description": "The back end of ecom sight",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soulfulnoise/E-com-Week-13.git"
+  },
+  "author": "Lee Spaulding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soulfulnoise/E-com-Week-13/issues"
+  },
+  "homepage": "https://github.com/soulfulnoise/E-com-Week-13#readme"
+}
